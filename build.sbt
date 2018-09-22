@@ -11,6 +11,7 @@ libraryDependencies ++=   Seq(
   "edu.holycross.shot.cite" %% "xcite" % "3.6.0",
   "edu.holycross.shot" %% "ohco2" % "10.9.0",
   "edu.holycross.shot" %% "orca" % "4.2.0",
+  "edu.holycross.shot" %% "scm" % "6.1.1",
 
   "edu.holycross.shot" %% "greek" % "1.4.0",
   "edu.holycross.shot" %% "gsphone" % "1.1.0",
